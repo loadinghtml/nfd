@@ -7,4 +7,4 @@
 - 联系：@xxxxxx
 - 说明：
 
-- 发布合租联系审核Bot @PinYunHZ_bot
+发布合租联系审核Bot @PinYunHZ_bot
